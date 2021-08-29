@@ -7,4 +7,4 @@ print(course.strip())  # rstrip lstrip
 print(course.find("pro"))
 print(course.replace("p", "j"))
 print("pro" in course)
-print("ruby" not in course)
+print("swift" not in course)

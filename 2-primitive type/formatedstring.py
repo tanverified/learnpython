@@ -8,4 +8,4 @@ full = f"{first} {last}"
 print(full)
 
 
-# can use F  or  f  for formated string
+# can use  F  or  f  for formated string
