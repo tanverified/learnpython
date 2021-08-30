@@ -10,6 +10,6 @@ if 10 in point:
 print(point)
 
 # Tuples are immuitables
-# means cannot cange their values
+# means cannot change their values
 
 
