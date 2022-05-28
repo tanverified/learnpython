@@ -8,10 +8,12 @@ numbers = [3,5,43,99,1]
 result = sorted(numbers)
 reverseList = sorted(numbers,reverse=True)
 
-print(result)
-print(numbers)
+# print(result)
+# print(numbers)
 
-# ---------------------------------------------
+# ------------------------------------------------
+# lambda function:  lambda arguments:expression  -
+# ------------------------------------------------
 # Sorting complex Data types
 
 items = [
@@ -21,6 +23,9 @@ items = [
 ]
 
 items.sort(key=lambda item:item[1])
+
+# sortedd = sorted(items,key=lambda item:item[1])
+# print(sortedd)
 
 print(items)
 

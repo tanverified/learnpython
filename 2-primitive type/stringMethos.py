@@ -1,4 +1,4 @@
-course = "   python programming  "
+course = "   python proGramming  "
 
 print(course.upper())
 print(course.lower())

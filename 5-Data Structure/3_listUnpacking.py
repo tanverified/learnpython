@@ -6,4 +6,3 @@ print(first)
 print(second)
 print(other)
 print(last)
-

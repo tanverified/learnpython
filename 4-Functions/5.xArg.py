@@ -4,6 +4,9 @@ def multiply(*numbers):
         total *= number
     return total
 
+
 result = multiply(2, 3, 4, 5)
 print(result)
+
+
 

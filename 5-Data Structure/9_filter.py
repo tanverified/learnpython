@@ -7,3 +7,4 @@ items = [
 filtered = filter(lambda item: item[1] >= 10, items)
 
 print(list(filtered))
+

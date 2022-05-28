@@ -10,7 +10,7 @@ print(f"x is {x} and y is {y}")
 # bool(x)
 # str(x)
 
-# Falsy
+#_ Falsy
 # 0
 # ""
 # None

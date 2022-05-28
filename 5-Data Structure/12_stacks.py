@@ -6,5 +6,11 @@ if not browsing_session:
     browsing_session[-1]
     
 
-# This is called as FIFO behavior
-# First In - First Out
+# This is called as LIFO behavior
+# Last In - First Out
+
+
+#    |  |
+#    |  | 
+#    |__|
+# 

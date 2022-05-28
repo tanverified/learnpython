@@ -11,3 +11,4 @@ print(first ^ second)
 if 1 in first:
     print('yes')
 
+
